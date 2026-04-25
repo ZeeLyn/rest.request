@@ -1,6 +1,6 @@
 {
   "name": "@zeelyn/http",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -14,7 +14,7 @@
   "author": "OWEN",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.2.1"
+    "axios": "^1.15.2"
   },
   "devDependencies": {
     "assert": "^2.0.0"
