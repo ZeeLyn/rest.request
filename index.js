@@ -1,2 +1,1 @@
-import http from "./lib/http";
-export default http;
+export { default, createHttpClient } from "./lib/http.js";
